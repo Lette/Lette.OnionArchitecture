@@ -1,4 +1,4 @@
-﻿namespace Core.Model;
+﻿namespace Lette.OnionArchitecture.Core.Model;
 
 public class Greeting
 {

@@ -1,7 +1,7 @@
-﻿using Core.Model;
-using Core.Presentation;
+﻿using Lette.OnionArchitecture.Core.Model;
+using Lette.OnionArchitecture.Core.Presentation;
 
-namespace Presentation;
+namespace Lette.OnionArchitecture.Presentation;
 
 public class GreetingsPresenter : IGreetingsPresenter
 {

@@ -1,7 +1,7 @@
-﻿using Bootstrapper;
-using Core.Controllers;
-using Persistence;
-using Presentation;
+﻿using Lette.OnionArchitecture.Bootstrapper;
+using Lette.OnionArchitecture.Core.Controllers;
+using Lette.OnionArchitecture.Persistence;
+using Lette.OnionArchitecture.Presentation;
 
 IApp app = new App(
     new HelloWorldController(

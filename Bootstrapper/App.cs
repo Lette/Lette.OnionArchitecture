@@ -1,6 +1,6 @@
-﻿using Core.Controllers;
+﻿using Lette.OnionArchitecture.Core.Controllers;
 
-namespace Bootstrapper;
+namespace Lette.OnionArchitecture.Bootstrapper;
 
 public interface IApp
 {

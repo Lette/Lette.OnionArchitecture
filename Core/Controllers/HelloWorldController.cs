@@ -1,7 +1,7 @@
-﻿using Core.Persistence;
-using Core.Presentation;
+﻿using Lette.OnionArchitecture.Core.Persistence;
+using Lette.OnionArchitecture.Core.Presentation;
 
-namespace Core.Controllers;
+namespace Lette.OnionArchitecture.Core.Controllers;
 
 public interface IHelloWorldController
 {

@@ -1,7 +1,7 @@
-﻿using Core.Model;
-using Core.Persistence;
+﻿using Lette.OnionArchitecture.Core.Model;
+using Lette.OnionArchitecture.Core.Persistence;
 
-namespace Persistence;
+namespace Lette.OnionArchitecture.Persistence;
 
 public class GreetingsRepository : IGreetingsRepository
 {

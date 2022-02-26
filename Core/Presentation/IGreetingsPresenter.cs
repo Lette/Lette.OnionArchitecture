@@ -1,6 +1,6 @@
-﻿using Core.Model;
+﻿using Lette.OnionArchitecture.Core.Model;
 
-namespace Core.Presentation;
+namespace Lette.OnionArchitecture.Core.Presentation;
 
 public interface IGreetingsPresenter
 {

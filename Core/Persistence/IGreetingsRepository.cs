@@ -1,6 +1,6 @@
-﻿using Core.Model;
+﻿using Lette.OnionArchitecture.Core.Model;
 
-namespace Core.Persistence;
+namespace Lette.OnionArchitecture.Core.Persistence;
 
 public interface IGreetingsRepository
 {
