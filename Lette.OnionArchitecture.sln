@@ -7,9 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bootstrapper", "Bootstrappe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{391158E0-DBA9-4D18-BE00-C429750C4607}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation", "Presentation\Presentation.csproj", "{D3ACF7C3-D6C8-4A67-AA74-CAE370C51DFE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lette.OnionArchitecture.Presentation", "Lette.OnionArchitecture.Presentation\Lette.OnionArchitecture.Presentation.csproj", "{D3ACF7C3-D6C8-4A67-AA74-CAE370C51DFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "Persistence\Persistence.csproj", "{8DD63596-F283-446D-AFCA-E65F6B4FF50E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lette.OnionArchitecture.Persistence", "Lette.OnionArchitecture.Persistence\Lette.OnionArchitecture.Persistence.csproj", "{8DD63596-F283-446D-AFCA-E65F6B4FF50E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

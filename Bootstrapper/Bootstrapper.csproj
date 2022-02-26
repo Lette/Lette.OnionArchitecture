@@ -2,8 +2,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Core\Core.csproj" />
-    <ProjectReference Include="..\Persistence\Persistence.csproj" />
-    <ProjectReference Include="..\Presentation\Presentation.csproj" />
+    <ProjectReference Include="..\Lette.OnionArchitecture.Persistence\Lette.OnionArchitecture.Persistence.csproj" />
+    <ProjectReference Include="..\Lette.OnionArchitecture.Presentation\Lette.OnionArchitecture.Presentation.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
