@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\Core\Core.csproj" />
+    <ProjectReference Include="..\Lette.OnionArchitecture.Core\Lette.OnionArchitecture.Core.csproj" />
     <ProjectReference Include="..\Lette.OnionArchitecture.Persistence\Lette.OnionArchitecture.Persistence.csproj" />
     <ProjectReference Include="..\Lette.OnionArchitecture.Presentation\Lette.OnionArchitecture.Presentation.csproj" />
   </ItemGroup>

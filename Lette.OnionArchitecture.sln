@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bootstrapper", "Bootstrapper\Bootstrapper.csproj", "{43CAC3A1-F5B9-44EF-8F31-2A70AFE2E6E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{391158E0-DBA9-4D18-BE00-C429750C4607}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lette.OnionArchitecture.Core", "Lette.OnionArchitecture.Core\Lette.OnionArchitecture.Core.csproj", "{391158E0-DBA9-4D18-BE00-C429750C4607}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lette.OnionArchitecture.Presentation", "Lette.OnionArchitecture.Presentation\Lette.OnionArchitecture.Presentation.csproj", "{D3ACF7C3-D6C8-4A67-AA74-CAE370C51DFE}"
 EndProject
